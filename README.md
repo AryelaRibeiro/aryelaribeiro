@@ -11,7 +11,6 @@ Me chamo Aryela Ribeiro Marques, tenho 16 anos e sou de São Paulo. Atualmente, 
   <a href="www.linkedin.com/in/aryela-ribeiro-marques-1a9901322" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
----
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -118,14 +117,6 @@ Me chamo Aryela Ribeiro Marques, tenho 16 anos e sou de São Paulo. Atualmente, 
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=AryelaRibeiro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-<br>
 <img 
       align="left" 
       alt="GitHub Stats" 
