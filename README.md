@@ -4,31 +4,13 @@
 
 Me chamo Aryela Ribeiro Marques, tenho 16 anos e sou natural de São Paulo. Atualmente, estou cursando técnico em Desenvolvimento de Sistemas na ETEC Dr. Geraldo Rodrigues Alckmin. Sou Desenvolvedor Full Stack, tenho interesse em aprofundar meus conhecimentos em Front-End. Sou proativo, possuo visão analítica, forte interesse por aprendizado contínuo e facilidade em aprendizagem. 
 
-
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="Linkedin" 
-            title="Confira meu Linkedin" 
-            src="https://custom-icon-badges.demolab.com/linkedin/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Linkedin&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/AryelaRibeiro?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/AryelaRibeiro?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/AryelaRibeiro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
+<div> 
+  <a href="https://instagram.com/arywribeiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:aryelaribeiro014@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/aryela-ribeiro-marques-1a9901322" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 ---
 
 ### 🤖 Linguagens e Tecnologias
